@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">hiloPabloRodriguez</string>
+    <string name="txt">Cantidad deNumeros Primos</string>
+    <string name="generar">Generar</string>
+    <string name="tvRespuesta" />
+</resources>
